@@ -1,9 +1,9 @@
 # Shaders
 
-## URP Proyect
+### URP Proyect
 - Sword Shaders
 
-## Built In Proyect
+### Built In Proyect
 - Milk Box Shaders
 
-## HDRP Proyect
+### HDRP Proyect
