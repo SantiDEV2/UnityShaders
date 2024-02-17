@@ -7,3 +7,7 @@
 - Milk Box Shaders
 
 ### HDRP Proyect
+- VFX Splash Attack
+- VFX Sparkles
+- Additive
+- Garden Shader
